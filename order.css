@@ -1,0 +1,33 @@
+#fullpage{
+    margin: 100px;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+        background-color: lightblue;
+    padding-bottom: 100;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr{
+    background-color: white;
+  }
